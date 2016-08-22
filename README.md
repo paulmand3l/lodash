@@ -5,8 +5,8 @@ The [Lodash](https://lodash.com/) library exported as [Node.js](https://nodejs.o
 ## Installation
 
 Using npm:
-```bash
-$ {sudo -H} npm i -g npm
+```shell
+$ npm i -g npm
 $ npm i --save lodash
 ```
 
@@ -36,5 +36,5 @@ Install [n_](https://www.npmjs.com/package/n_) for a REPL that includes `lodash`
 
 ## Support
 
-Tested in Chrome 51-52, Firefox 47-48, IE 9-11, Edge 14, Safari 8-9, Node.js 0.10-6, & PhantomJS 2.1.1.<br>
+Tested in Chrome 51-52, Firefox 47-48, IE 9-11, Edge 14, Safari 8-9, Node.js 4-6, & PhantomJS 2.1.1.<br>
 Automated [browser](https://saucelabs.com/u/lodash) & [CI](https://travis-ci.org/lodash/lodash/) test runs are available.
